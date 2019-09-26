@@ -41,4 +41,4 @@
 ![Alt Text](https://github.com/rensimeila04/jobsheet12/blob/master/Screenshot%20(162).png)
 
 # Kalkulator
-![Alt Text](https://github.com/rensimeila04/jobsheet12/blob/master/Screenshot%20(162).png)
+![Alt Text](https://github.com/rensimeila04/jobsheet12/blob/master/Screenshot%20(163).png)
